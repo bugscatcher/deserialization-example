@@ -1,0 +1,19 @@
+[
+  {
+    "aBoolean": "true",
+    "aClass": {
+      "string": "AinurSuperMan"
+    }
+  },
+  {
+    "aBoolean": "false",
+    "aClass": {
+      "innerChild2s": [
+        {
+          "integer": "1",
+          "aLong": "2"
+        }
+      ]
+    }
+  }
+]
